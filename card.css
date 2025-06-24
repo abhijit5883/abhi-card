@@ -27,6 +27,7 @@ div:hover{
     margin-top: 80px;
     height: 500px;
     width: 500px;
+    rotate: 360deg;
 }
 
 
